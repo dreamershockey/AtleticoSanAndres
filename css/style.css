@@ -667,7 +667,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("../img/hockey19.jpg") center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), img=url("https://raw.githubusercontent.com/dreamershockey/AtleticoSanAndres/main/img/hockey19.jpg") center center;
   background-size: cover;
   padding: 60px 0;
 }
