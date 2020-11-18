@@ -923,7 +923,7 @@ section {
 # F.A.Q
 --------------------------------------------------------------*/
 .faq {
-  padding: 60px 0;
+  padding: 10px 0;
 }
 
 .faq .faq-list {
@@ -951,7 +951,7 @@ section {
 }
 
 .faq .faq-list p {
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   font-size: 15px;
 }
 
@@ -1079,7 +1079,7 @@ section {
 }
 
 .contact .info h4 {
-  padding: 0 0 0 60px;
+  padding: 0 0 0 20px;
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
